@@ -1,0 +1,11 @@
+{
+	"server": {
+		"port": 3002,
+		"verbose": true,
+		"cacheTemplates": false,
+		"exposeErrors": true
+	},
+	"db": {
+		"connstr": "mongodb://localhost:27017/nodest-bootstrap-rest"
+	}
+}

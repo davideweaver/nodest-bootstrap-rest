@@ -1,0 +1,7 @@
+{
+	"server": {
+		"verbose": false,
+		"cacheTemplates": true,
+		"exposeErrors": false
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "nodest-bootstrap-web",
+  "version": "0.1.0",
+  "description": "Starter project for a Nodest REST API app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --use_strict --harmony index.js",
+    "production": "export NODE_ENV=production; node --use_strict --harmony index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Weaver (http://daveweaver.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davideweaver/nodest-bootstrap-rest.git"
+  },
+  "dependencies": {
+    "kcors": "^1.2.1",
+    "koa-body-parser": "^1.1.2",
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.5.8",
+    "nodest": "^0.1.9"
+  }
+}
