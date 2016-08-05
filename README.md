@@ -12,7 +12,7 @@ npm install
 npm start
 ```
 
-Point your REST test client at http://localhost:3002/contacts
+Point your REST client at http://localhost:3002/contacts
 
 Handles common HTTP methods:
 
