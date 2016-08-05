@@ -1,6 +1,9 @@
 # nodest-bootstrap-rest
 Bootstrap project for a Nodest REST API app
 
+## Dependencies
+Requires Mongodb to be installed
+
 ## Use it
 Clone project locally, then
 
